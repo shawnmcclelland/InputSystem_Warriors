@@ -28,6 +28,9 @@ MonoBehaviour:
   - deviceRawPath: Gamepad:/Gamepad
     deviceDisplaySettings: {fileID: 11400000, guid: 504fb0ee535a2ed4c866e228de2e7f90,
       type: 2}
+  - deviceRawPath: XboxOneGampadMacOSWireless:/XboxOneGampadMacOSWireless
+    deviceDisplaySettings: {fileID: 11400000, guid: a5eab36e3f254db458d2b5578c87f0c5,
+      type: 2}
   disconnectedDeviceSettings:
     disconnectedDisplayName: Disconnected!
     disconnectedDisplayColor: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 1}
