@@ -42,19 +42,21 @@ You can learn more about the Input System here: https://unity.com/features/input
 ## Tech Info
 
 **Unity Version**
-- Current: [2019.4.13f1](https://unity.com/releases/2019-lts)
+- Current: [2022.3.26f1](https://unity.com/releases/lts)
 
 **Packages**
-- com.unity.inputsystem: 1.0.0
-- com.unity.textmeshpro: 2.0.1
-- com.unity.render-pipelines.universal: 7.3.1
+- com.unity.inputsystem: 1.7.0
+- com.unity.textmeshpro: 3.0.6
+- com.unity.render-pipelines.universal: 14.0.11
 
 **Hardware**
 
 This example project has been developed and tested with the following input devices:
 - Keyboard
 - PlayStation 4 Dualshock Controller
+- PlayStation 5 DualSense Controller
 - Xbox One Controller
+- Xbox One MacOS Wireless Controller
 - Nintendo Switch Pro Controller
 - Android Samsung Galaxy S9 (Touchscreen for Virtual Joystick and Virtual Button)
 - Mouse (For simulating touchscreen input in the Unity Editor)
